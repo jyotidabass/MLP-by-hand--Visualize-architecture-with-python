@@ -10,4 +10,4 @@ Another example of MLP can be found in healthcare. In medical diagnosis, MLP can
 
 In finance, MLP can be used in fraud detection. It can analyze transaction data such as the amount, location, and frequency of transactions to identify patterns that may indicate fraudulent activity. This can help banks and financial institutions prevent financial losses and protect their customers’ assets.
 
-Insummary, MLP is a powerful tool that can be applied to various fields, making it a versatile and valuable technology. Its architecture is a series of interconnected layers of neurons that process information, making it suitable for solving complex problems and making accurate predictions based on large amounts of data. Let’s understand it better by code.
+In summary, MLP is a powerful tool that can be applied to various fields, making it a versatile and valuable technology. Its architecture is a series of interconnected layers of neurons that process information, making it suitable for solving complex problems and making accurate predictions based on large amounts of data. Let’s understand it better by code.
